@@ -48,7 +48,7 @@ function App() {
     setTimeout(() => {
       FormRef.current.setData({
         name: 'Paulo Sérgio',
-        email: 'paulo_sanches2012@hotmail.com',
+        email: 'paulo@hotmail.com',
         address: {
           city: 'Palmas'
         }
